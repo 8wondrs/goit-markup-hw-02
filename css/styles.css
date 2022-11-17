@@ -59,7 +59,8 @@ ul {
 	color: var(--body-color);
 }
 
-.menu-contacts .link:hover {
+.menu-contacts .link:hover,
+.menu-contacts .link:focus {
 	color: var(--brand-color);
 }
 
